@@ -1,0 +1,43 @@
+@media screen and (max-width: 1120px) {
+  .container__big-card{
+    width: 80%;
+    height: 75vh;
+    margin: auto;
+  }
+}
+
+@media screen and (max-width: 990px) {
+  .container__big-card{
+    width: 80%;
+    height: 70vh;
+    margin: auto;
+  }
+}
+
+@media screen and (max-width: 830px) {
+  .container__big-card{
+    width: 80%;
+    height: 60vh;
+    margin: auto;
+  }
+}
+
+@media screen and (max-width: 630px) {
+  .container__big-card{
+    width: 80%;
+    height: 55vh;
+    margin: auto;
+  }
+}
+
+@media screen and (max-width: 490px) {
+  .container__big-card{
+    width: 80%;
+    height: 50vh;
+    margin: auto;
+  }
+}
+
+
+
+

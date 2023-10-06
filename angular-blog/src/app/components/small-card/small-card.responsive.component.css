@@ -1,0 +1,35 @@
+@media screen and (max-width: 1120px) {
+  .container__small-card{
+    width: 80%;
+    margin: auto;
+  }
+  .small-card__title > h1{
+    font-size: 1.3rem;
+  }
+}
+@media screen and (max-width: 600px) {
+  .small-card__title > h1{
+    font-size: .8rem;
+
+  }
+  .small-card__img > img{
+    width: 150px;
+    min-width: 150px;
+  }
+}
+
+@media screen and (max-width: 420px) {
+  .container__small-card{
+    width: 80%;
+    margin: auto;
+  }
+  .small-card__title > h1{
+    font-size: .6rem;
+  }
+  .small-card__img > img{
+    width: 100px;
+    min-width: 100px;
+  }
+}
+
+
