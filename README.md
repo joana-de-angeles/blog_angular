@@ -8,13 +8,13 @@ Este blog foi criado como parte de um estudo de Angular e é uma demonstração 
 
 ## Layout Blog Desktop
 
-![Imagem do Projeto](src/imgs/img1.JPG)
-![Imagem do Projeto](src/imgs/img2.JPG)
+![Imagem do Projeto](imgs/img1.JPG)
+![Imagem do Projeto](imgs/img2.JPG)
 
 ## Layout Mobile
 
-![Imagem do Projeto](src/imgs/responsive.JPG)
-![Imagem do Projeto](src/imgs/responsive1.JPG)
+![Imagem do Projeto](imgs/responsive.JPG)
+![Imagem do Projeto](imgs/responsive1.JPG)
 
 ## Recursos
 
