@@ -1,15 +1,14 @@
 <div class="container__big-card">
   <div class="big-card__img">
-    <img src="https://escotilha.com.br/wp-content/uploads/2015/04/serie-homeland-quarta-temporada-resenha-critica.jpeg"  alt="" srcset="">
+    <img src="{{imgCover}}"  alt="" srcset="">
   </div>
-  <a href=""></a>
   <div class="big-card__title">
-    <h1><a href="">Saiu a nova versão do Angular</a></h1>
+    <h1><a [routerLink]="['content', Id]">{{cardTitle}}</a></h1>
   </div>
   <div class="big-card__description">
     <p>
-      <a href="">
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos sunt recusandae doloribus accusantium minima. Corrupti repellat tempore.
+      <a [routerLink]="['content', Id]">
+        {{cardDiscription}}
       </a>
     </p>
   </div>
