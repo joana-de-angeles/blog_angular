@@ -1,27 +1,26 @@
-# AngularBlog
+# Blog de Séries - Estudo de Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
+Bem-vindo ao Blog de Séries, um projeto de estudo de Angular! Este é um blog dedicado a séries de TV, desenvolvido como parte de um estudo sobre Angular. Neste projeto, você encontrará uma experiência responsiva e recursos interessantes.
 
-## Development server
+## Sobre o Blog
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Este blog foi criado como parte de um estudo de Angular e é uma demonstração de conceitos e habilidades de desenvolvimento web. Embora as informações aqui apresentadas sejam em "Lorem Ipsum", você pode explorar a estrutura do site, a responsividade e outros recursos do Angular.
 
-## Code scaffolding
+## Layout Blog Desktop
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+![Imagem do Projeto](src/imgs/img1.JPG)
+![Imagem do Projeto](src/imgs/img2.JPG)
 
-## Build
+## Layout Mobile
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+![Imagem do Projeto](src/imgs/responsive.JPG)
+![Imagem do Projeto](src/imgs/responsive1.JPG)
 
-## Running unit tests
+## Recursos
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+- **Responsividade**: Este blog é totalmente responsivo e se adapta a diferentes tamanhos de tela, garantindo uma experiência de usuário consistente.
 
-## Running end-to-end tests
+- **Página de Artigos**: Apesar de os artigos atualmente estarem em "Lorem Ipsum", a página de artigos demonstra como os conteúdos podem ser apresentados e acessados.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Obrigado por visitar o Blog de Séries. Esta é uma demonstração do meu trabalho em desenvolvimento web com Angular, e espero que você aprecie a experiência e a responsividade oferecida.
